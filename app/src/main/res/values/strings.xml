@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BranchInternational</string>
+    <string name="username_email">Username/Email</string>
+    <string name="login_title_str">Welcome to Branch International</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="company_logo">Company Logo</string>
+    <string name="login">Login</string>
+    <string name="user_id">User_ID</string>
+    <string name="datetime">DateTime</string>
+    <string name="message">Message</string>
+    <string name="date">Date</string>
+    <string name="this_is_a_test_message">This is sdfdsfsdafsadfasdfsdf adfasdfsdfdsf asdfasdfasdfsf sasdfasdfsdfds a test message.</string>
+    <string name="type_your_message_here">Type your message here.</string>
+    <string name="logout">Logout</string>
+    <string name="clear_chat">Clear Chat</string>
+</resources>
